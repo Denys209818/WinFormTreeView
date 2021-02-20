@@ -1,0 +1,12 @@
+C:\Users\Denis\Desktop\Новая папка C#\TreeView\TreeView.DAL\bin\Debug\netcoreapp3.1\TreeView.DAL.deps.json
+C:\Users\Denis\Desktop\Новая папка C#\TreeView\TreeView.DAL\bin\Debug\netcoreapp3.1\TreeView.DAL.runtimeconfig.json
+C:\Users\Denis\Desktop\Новая папка C#\TreeView\TreeView.DAL\bin\Debug\netcoreapp3.1\TreeView.DAL.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\Новая папка C#\TreeView\TreeView.DAL\bin\Debug\netcoreapp3.1\TreeView.DAL.dll
+C:\Users\Denis\Desktop\Новая папка C#\TreeView\TreeView.DAL\bin\Debug\netcoreapp3.1\TreeView.DAL.pdb
+C:\Users\Denis\Desktop\Новая папка C#\TreeView\TreeView.DAL\obj\Debug\netcoreapp3.1\TreeView.DAL.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Новая папка C#\TreeView\TreeView.DAL\obj\Debug\netcoreapp3.1\TreeView.DAL.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\TreeView\TreeView.DAL\obj\Debug\netcoreapp3.1\TreeView.DAL.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Новая папка C#\TreeView\TreeView.DAL\obj\Debug\netcoreapp3.1\TreeView.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\TreeView\TreeView.DAL\obj\Debug\netcoreapp3.1\TreeView.DAL.dll
+C:\Users\Denis\Desktop\Новая папка C#\TreeView\TreeView.DAL\obj\Debug\netcoreapp3.1\TreeView.DAL.pdb
+C:\Users\Denis\Desktop\Новая папка C#\TreeView\TreeView.DAL\obj\Debug\netcoreapp3.1\TreeView.DAL.genruntimeconfig.cache
